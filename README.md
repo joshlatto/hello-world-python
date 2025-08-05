@@ -25,7 +25,7 @@ This repo is a sandbox for learning:
 
 ## 🔐 Auth
 
-Pushing to GitHub is done via SSH (`joshlatto`).
+Pushing to GitHub is done via SSH.
 
 ---
 
